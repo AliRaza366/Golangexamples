@@ -31,7 +31,7 @@ func Encrypt(sliceToEncrypt	[]byte,	ceaserCount	int){
 
 func EZGreetings(name string) string{
 
-		temp := greetings.PrintGreetings(name string)
+		temp := greetings.PrintGreetings(name)
 		return temp
 	
 	}
