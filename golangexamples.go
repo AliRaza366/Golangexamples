@@ -1,5 +1,6 @@
 package golangexamples
 
+import "fmt"
 
 import "github.com/ehteshamz/greetings"
 
